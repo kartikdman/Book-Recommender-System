@@ -29,4 +29,4 @@ Collaborative filtering is classified into two types: <br>
 **Understand the Dataset - 3**<br>
 + User-ID - Id of the particular user.<br>
 + Location - the location of the user(reader of the book)<br>
-+ Age - Age of the user (reader of the book)<br>
++ Age - Age o the user (reader of the book)<br>
