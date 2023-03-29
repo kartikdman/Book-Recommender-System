@@ -1,5 +1,5 @@
 ## **Collaborative Based Book Recommendation System 🧠**<br>
-The practise of offering or recommending commodities, products, or services to people based on their interests or preferences is referred to as recommendation. To assist consumers in discovering relevant and entertaining material, recommendation systems are extensively utilised in e-commerce, entertainment, social media, and many other sectors.<br>
+The practise of offering or recommending commodities, products, or services to people based on their interests or preferences is referred to as recommendation. To assist consumers in discovering relevan and entertaining material, recommendation systems are extensively utilised in e-commerce, entertainment, social media, and many other sectors.<br>
 There are several types of recommendation systems, but the following are the most common:<br>
 + *Collaborative filtering.*
 + *Content-based filtering.*
